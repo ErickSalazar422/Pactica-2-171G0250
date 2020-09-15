@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad2-171G0250\\Actividad2-171G0250.csproj": {}
+    "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad 1 U2 171G0250\\Actividad2-171G0250\\Actividad2-171G0250.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad2-171G0250\\Actividad2-171G0250.csproj": {
+    "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad 1 U2 171G0250\\Actividad2-171G0250\\Actividad2-171G0250.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad2-171G0250\\Actividad2-171G0250.csproj",
+        "projectUniqueName": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad 1 U2 171G0250\\Actividad2-171G0250\\Actividad2-171G0250.csproj",
         "projectName": "Actividad2-171G0250",
-        "projectPath": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad2-171G0250\\Actividad2-171G0250.csproj",
+        "projectPath": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad 1 U2 171G0250\\Actividad2-171G0250\\Actividad2-171G0250.csproj",
         "packagesPath": "C:\\Users\\Carlitos Salazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad2-171G0250\\obj\\",
+        "outputPath": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad 1 U2 171G0250\\Actividad2-171G0250\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

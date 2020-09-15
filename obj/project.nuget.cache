@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jg0ugpJxXcdHfiXNzrIIIZy6/mzP8p+yctmPiDhZ2+ProkpVRFoGD7iGIsjJ/pS66lVKgBEe86bN0orr87jm3A==",
+  "dgSpecHash": "ZA/CN/YJfsbrQvTB91b0WuUs6nBEEsiTgjnsVnVDxNCCp9+haYTz7d/ziMtoHPRtR3H0/9imdjXm9mU9oMn3yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad2-171G0250\\Actividad2-171G0250.csproj",
+  "projectFilePath": "C:\\Users\\Carlitos Salazar\\Desktop\\7 semestre\\padilla\\Actividad 1 U2 171G0250\\Actividad2-171G0250\\Actividad2-171G0250.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlitos Salazar\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Carlitos Salazar\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
